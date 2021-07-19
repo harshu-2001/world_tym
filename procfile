@@ -1,0 +1,2 @@
+web: ./dart-sdk/bin/dart lib/main.dart
+cmd: flutter pub get
