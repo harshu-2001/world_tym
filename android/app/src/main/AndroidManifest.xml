@@ -2,7 +2,7 @@
     package="com.example.world_time">
    <application
         android:label="world_time"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/day">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

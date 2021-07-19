@@ -4,6 +4,10 @@
         "source": "D:\\flutter\\world_time\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
     },
     {
+        "merged": "D:\\flutter\\world_time\\build\\app\\intermediates\\res\\merged\\debug\\drawable_day.jpg.flat",
+        "source": "D:\\flutter\\world_time\\android\\app\\src\\main\\res\\drawable\\day.jpg"
+    },
+    {
         "merged": "D:\\flutter\\world_time\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\flutter\\world_time\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },

@@ -86,13 +86,13 @@ class _HomeState extends State<Home> {
               label: Text(
                 "Set Location",
                 style: TextStyle(
-                  color: bgcolor,
+                  color: Colors.grey.shade900,
                   fontSize: 15.0
                 ),
                 ), 
               icon: Icon(Icons.location_pin,
               size: 25,
-              color: bgcolor,
+              color: Colors.grey.shade900,
               ),
              ),
             ),

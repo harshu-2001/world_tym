@@ -81,4 +81,6 @@ class World_time{
     }
   }
 
+  toLowerCase() {}
+
 }
